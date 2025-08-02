@@ -1,2 +1,1 @@
-print('Hi there!')
-
+print('Hi there!');
